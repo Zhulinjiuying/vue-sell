@@ -1,6 +1,6 @@
 # vue-sell
 
-> A Vue.js project
+> A Vue.js project 仿饿了么spa应用
 
 ## Build Setup
 
