@@ -2,7 +2,7 @@
 
 > A Vue.js project 仿饿了么spa应用
 
-(https://github.com/Zhulinjiuying/vue-sell/blob/master/overview.png)
+![image](https://github.com/Zhulinjiuying/vue-sell/blob/master/overview.png)
 
 ## Build Setup
 
