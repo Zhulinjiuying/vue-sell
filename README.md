@@ -3,6 +3,7 @@
 > A Vue.js project 仿饿了么spa应用
 
 ![image](https://github.com/Zhulinjiuying/vue-sell/blob/master/overview.png)
+>[项目显示](https://bortala17.github.io/VueDemo/#/goods)
 
 ## Build Setup
 
